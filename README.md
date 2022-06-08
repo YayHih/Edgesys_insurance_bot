@@ -26,6 +26,7 @@ When it has succsefully completed one company it will print out a messege like t
  Finished: 1 Number in list # 1 in Index: 0 Company Name: (John Doe Insurance Agency LLC) Time elapsed: 0:00:05.365904
  
 However, sometimes when it does not find the company in question it will print out an error like this, and write down the failed company in its error log (shown above).
+
 https://www.insurancecompanies/johndoeinsurnace.com
 John Doe Insurance Services
  Finished: 75 error #1 error, company #47 number in index: 1 a: 1 x: 2 ################################################################################################################
