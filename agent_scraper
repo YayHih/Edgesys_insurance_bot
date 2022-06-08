@@ -7,9 +7,6 @@
 #https://analyticsindiamag.com/how-to-run-python-code-concurrently-using-multithreading/
 
 PATH = "C:\webdrivers\chromedriver.exe"
-from pickle import FALSE, TRUE
-from unicodedata import name
-from xmlrpc.client import Boolean
 from numpy import number
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
